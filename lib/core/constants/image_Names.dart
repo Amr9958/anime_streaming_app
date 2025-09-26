@@ -1,4 +1,4 @@
-class Images {
+class AppImages {
   static const String logo = 'assets/images/logo.png';
   static const String Dragonball = 'assets/images/Dragonball.png';
   static const String HunterxHunter = 'assets/images/Hunter-x-hunter.png';
